@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 100%;
+  height: 800px;
+}
+
+.main-picture {
+  width: 100%;
+  height: 200px;
+}
+
+.main1 {
+  background-image: url(chapter6_exercise/img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main2 {
+  background-image: url(chapter6_exercise/img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main3 {
+  background-image: url(chapter6_exercise/img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.main4 {
+  background-image: url(chapter6_exercise/img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
